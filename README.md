@@ -1,7 +1,10 @@
 # railwayreservationGUI
-Simple railway reservation system using JAVA swing
-1)Download requried netbeans installer for your system from this link --> https://netbeans.apache.org/download/nb126/nb126.html
 
+
+
+
+1)Download requried netbeans installer for your system from this link --> https://netbeans.apache.org/download/nb126/nb126.html
+  
 
 2)Download XAMPP installer for your system from this link --> https://www.apachefriends.org/download.html
 
